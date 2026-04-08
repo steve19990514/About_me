@@ -1,16 +1,9 @@
-<<<<<<< HEAD
+
 # About_me
 =======
 # Wang Xiugang — Personal Portfolio Website
 
 A bilingual (English/Chinese) personal portfolio website for Wang Xiugang, Data Analyst & AI Enthusiast.
-
-## Tech Stack
-
-- Pure HTML5 + CSS3 + Vanilla JavaScript
-- No frameworks, no build tools
-- Single-page scrolling layout
-- Deployable directly to GitHub Pages
 
 ## File Structure
 
@@ -64,4 +57,3 @@ Before publishing, update the following in `index.html`:
 ## Local Preview
 
 Simply open `index.html` in any browser — no server required.
->>>>>>> f206350 (Initial portfolio site for Wang Xiugang)
